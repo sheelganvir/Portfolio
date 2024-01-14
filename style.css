@@ -248,6 +248,9 @@ section .title::after{
     background: none;
 }
 /* services section styling */
+.box{
+    color: #fff;
+}
 .services, .teams{
     color:#fff;
     background: #111;
@@ -357,7 +360,7 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .js::before{
-    width: 15%;
+    width: 60%;
 }
 .skills-content .right .php::before{
     width: 60%;
